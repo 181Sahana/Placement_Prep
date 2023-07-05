@@ -1,0 +1,2 @@
+Collection framework is a combination of classes and interfaces
+Methods on Collection
