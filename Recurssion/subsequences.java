@@ -10,10 +10,10 @@ public class subsequences {
         char cuurchar = input.charAt(idx);
 
          //to be
-         SubSequence(input, idx+1, newstr+cuurchar);
+        SubSequence(input, idx+1, newstr+cuurchar);
 
          //not to be
-         SubSequence(input, idx+1, newstr);
+        SubSequence(input, idx+1, newstr);
     }
 
     public static void main(String args[]){
