@@ -1,4 +1,4 @@
-package Stack;
+
 import java.util.*;
 public class stackpushatbottom {
     //remove the top elements to reach the bottom of the stack
